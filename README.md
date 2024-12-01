@@ -106,3 +106,11 @@ Without precision farming techniques, farmers may waste resources, increase envi
 ### Sustainability Practices: This page provides tips on how to practice sustainability as an individual concerning topics like Water conservation, Chemical Wastes, Soil Health, etc.
 
 ### Farmer's Forum: Farmer's forum contains answers to questions that frequently arise in the field of agriculture.
+
+
+## Demo Video
+
+Click on the image below to watch the demo:
+
+[![Watch the Demo](images/demo_thumb[Epochon-GreenEra.webm](https://github.com/user-attachments/assets/dcd0443b-127f-48ad-88eb-f0655794bc96)
+nail.jpg)](videos/demo.mp4)
