@@ -112,5 +112,7 @@ Without precision farming techniques, farmers may waste resources, increase envi
 
 Click on the image below to watch the demo:
 
-[![Watch the Demo](images/demo_thumb[Epochon-GreenEra.webm](https://github.com/user-attachments/assets/dcd0443b-127f-48ad-88eb-f0655794bc96)
-nail.jpg)](videos/demo.mp4)
+[Epochon-GreenEra.webm](https://github.com/user-attachments/assets/dcd0443b-127f-48ad-88eb-f0655794bc96)
+
+
+
