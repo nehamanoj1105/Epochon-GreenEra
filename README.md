@@ -88,13 +88,11 @@ Without precision farming techniques, farmers may waste resources, increase envi
 
 # INSTALLATION GUIDE
 ## REQUIREMENTS.TXT
-###Flask==2.2.3
-###pandas==1.5.0
-###scikit-learn==1.2.0
-###requests==2.28.0
-###Flask-SocketIO==5.2.0
-
-
+### Flask==2.2.3
+### pandas==1.5.0
+### scikit-learn==1.2.0
+### requests==2.28.0
+### Flask-SocketIO==5.2.0
 
 
 ### Potential Solution:
