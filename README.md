@@ -99,14 +99,10 @@ Without precision farming techniques, farmers may waste resources, increase envi
 # SUMMARY
 ### GreenEra is a sustainability based agriculture website that provides precise answers to users for any doubts they have regarding their crops. The website includes functions like crop prediction, disease detection, a page on sustainability practices, and a Q&A farmer's forum.
 
-### Crop Prediction:
-	The crop prediction takes different inputs from the user like NPK levels, humidity, pH level, etc., compares the values to the ones in the database and selects the crop that fits the values most. The database used has an accuracy of 0.99% and thus ensures an optimum result.
+### Crop Prediction: The crop prediction takes different inputs from the user like NPK levels, humidity, pH level, etc., compares the values to the ones in the database and selects the crop that fits the values most. The database used has an accuracy of 0.99% and thus ensures an optimum result.
 
-### Disease Detection:
-	The Disease Detector takes images of the concerned plant's leaf as input from the user, compares it with the database and outputs the disease that is affecting the plant. The database used has an accuracy of 0.7%
+### Disease Detection: The Disease Detector takes images of the concerned plant's leaf as input from the user, compares it with the database and outputs the disease that is affecting the plant. The database used has an accuracy of 0.7%
 
-### Sustainability Practices:
-	This page provides tips on how to practice sustainability as an individual concerning topics like Water conservation, Chemical Wastes, Soil Health, etc.
+### Sustainability Practices: This page provides tips on how to practice sustainability as an individual concerning topics like Water conservation, Chemical Wastes, Soil Health, etc.
 
-### Farmer's Forum:
-	Farmer's forum contains answers to questions that frequently arise in the field of agriculture.
+### Farmer's Forum: Farmer's forum contains answers to questions that frequently arise in the field of agriculture.
