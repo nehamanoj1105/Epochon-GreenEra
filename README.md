@@ -71,5 +71,21 @@ Precision farming involves using technology, such as sensors, GPS, and drones, t
 ### Impact:
 Without precision farming techniques, farmers may waste resources, increase environmental harm, and fail to achieve optimal yields. Furthermore, precision farming can be costly and may require significant investment in technology and training.
 
+# Project Tech Stack Summary
+
+## 1. Front-End Technologies (UI/UX)
+- **HTML**: Used to structure the content of the web pages.
+- **CSS**: Responsible for styling the web pages, ensuring a responsive and user-friendly interface.
+
+## 2. Back-End Technologies
+- **JavaScript (JS)**: Powers the backend logic, providing a dynamic and scalable structure for handling server-side operations and API interactions.
+
+## 3. Machine Learning & AI
+- **Natural Language Processing (NLP)**: Used to enable the system to understand and process human language. It can be applied for tasks such as language translation, chatbots, or processing farmer queries in natural language.
+
+## 4. Documentation & Project Management
+- **GitHub**: Version control platform used to manage the project's codebase, track issues, and collaborate with other developers. It also hosts the documentation for the project.
+
+
 ### Potential Solution:
 The development of low-cost, user-friendly precision farming technologies and the creation of training programs could help democratize access to these innovations, making them available to a broader range of farmers, especially smallholders.
