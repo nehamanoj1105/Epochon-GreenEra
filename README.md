@@ -71,7 +71,7 @@ Precision farming involves using technology, such as sensors, GPS, and drones, t
 ### Impact:
 Without precision farming techniques, farmers may waste resources, increase environmental harm, and fail to achieve optimal yields. Furthermore, precision farming can be costly and may require significant investment in technology and training.
 
-# Project Tech Stack Summary
+# PROJECT TECH STACK SUMMARY
 
 ## 1. Front-End Technologies (UI/UX)
 - **HTML**: Used to structure the content of the web pages.
