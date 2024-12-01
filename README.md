@@ -3,6 +3,8 @@
 # Agricultural Productivity and Sustainability Challenges
 ## PROBLEM STATEMENT
 Agricultural productivity and sustainability face significant challenges due to a lack of access to tailored and real-time information for farmers. This includes difficulties in diagnosing crop diseases, selecting optimal crops for specific conditions, adopting sustainable farming practices, overcoming language barriers, and fostering community collaboration. The absence of an integrated platform to address these challenges hinders the advancement of precision farming, contributing to suboptimal yields and environmental strain.
+## Potential Solution:
+The development of low-cost, user-friendly precision farming technologies and the creation of training programs could help democratize access to these innovations, making them available to a broader range of farmers, especially smallholders.
 ## PROJECT OVERVIEW
 ## 1. Diagnosing Crop Diseases
 ### Challenge:
@@ -94,6 +96,17 @@ Without precision farming techniques, farmers may waste resources, increase envi
 ### requests==2.28.0
 ### Flask-SocketIO==5.2.0
 
+# SUMMARY
+### GreenEra is a sustainability based agriculture website that provides precise answers to users for any doubts they have regarding their crops. The website includes functions like crop prediction, disease detection, a page on sustainability practices, and a Q&A farmer's forum.
 
-### Potential Solution:
-The development of low-cost, user-friendly precision farming technologies and the creation of training programs could help democratize access to these innovations, making them available to a broader range of farmers, especially smallholders.
+### Crop Prediction:
+	The crop prediction takes different inputs from the user like NPK levels, humidity, pH level, etc., compares the values to the ones in the database and selects the crop that fits the values most. The database used has an accuracy of 0.99% and thus ensures an optimum result.
+
+### Disease Detection:
+	The Disease Detector takes images of the concerned plant's leaf as input from the user, compares it with the database and outputs the disease that is affecting the plant. The database used has an accuracy of 0.7%
+
+### Sustainability Practices:
+	This page provides tips on how to practice sustainability as an individual concerning topics like Water conservation, Chemical Wastes, Soil Health, etc.
+
+### Farmer's Forum:
+	Farmer's forum contains answers to questions that frequently arise in the field of agriculture.
