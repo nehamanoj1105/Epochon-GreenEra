@@ -86,6 +86,16 @@ Without precision farming techniques, farmers may waste resources, increase envi
 ## 4. Documentation & Project Management
 - **GitHub**: Version control platform used to manage the project's codebase, track issues, and collaborate with other developers. It also hosts the documentation for the project.
 
+# INSTALLATION GUIDE
+## REQUIREMENTS.TXT
+###Flask==2.2.3
+###pandas==1.5.0
+###scikit-learn==1.2.0
+###requests==2.28.0
+###Flask-SocketIO==5.2.0
+
+
+
 
 ### Potential Solution:
 The development of low-cost, user-friendly precision farming technologies and the creation of training programs could help democratize access to these innovations, making them available to a broader range of farmers, especially smallholders.
