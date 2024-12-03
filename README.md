@@ -115,4 +115,4 @@ Click on the image below to watch the demo:
 [Epochon-GreenEra.webm](https://github.com/user-attachments/assets/dcd0443b-127f-48ad-88eb-f0655794bc96)
 
 #### YouTube Video
-[Demo2.mp4](https://www.youtube.com/watch?v=3UUsUpSvIiA)
+[Demo2.mp4](https://youtu.be/aRLCJF1Xyi8)
